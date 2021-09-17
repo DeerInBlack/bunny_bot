@@ -1,5 +1,5 @@
 python_telegram_bot==13.7
-en_core_web_sm==3.1.0
+en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.1.0/en_core_web_sm-3.1.0-py3-none-any.whl
 nltk==3.6.2
 torch==1.9.0
 tez==0.1.8
